@@ -1,4 +1,5 @@
-# Firstwork
-Hello guys! This is my first time being on GitHub. 
-Let's see how it goes.
+# My introduction 
+Hello GitHub community!!
+I am an undergraduate junior majoring in Biomedical Engineering and minoring in Applied Statistics. 
+I am quite interested in using computation to understand various human biological processes. 
  
